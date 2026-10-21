@@ -1,4 +1,8 @@
-class Demo{
+class Demo {
+    public static void test2()
+    {
+        System.out.println("Hello it's very inportant");
+    }
     public static void main(String[] args)
     {
 <<<<<<< HEAD
