@@ -1,9 +1,7 @@
-class Demo{
-    public static void main(String[] args)
-    {
-        int a=10;
-        int b=15;
-        
-    
+class Demo {
+    public static void main(String[] args) {
+        int r e sult=a+b;
+        Syste m .ou
+
     }
 }
