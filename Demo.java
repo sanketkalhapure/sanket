@@ -18,6 +18,7 @@ class Demo
         int b=15;
 
         int result=a+b;
+        int one=10;
 
         System.out.println(result);
 
